@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User curd test","This test will create a new user","SUCCESS","2020-05-20T13:58:00.668+01:00[Europe/London]","0.0","51.61"
+"User curd test","This test will Verify an existing user of the application","SUCCESS","2020-05-20T13:58:53.512+01:00[Europe/London]","0.0","1.13"
+"User curd test","This test will Update a user","SUCCESS","2020-05-20T13:58:54.647+01:00[Europe/London]","0.0","0.65"
+"User curd test","This test will Delete a user","SUCCESS","2020-05-20T13:58:55.300+01:00[Europe/London]","0.0","0.76"
